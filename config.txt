@@ -1,0 +1,12 @@
+32 60 80
+10
+cao3.pgm
+cao2.pgm
+cao1.pgm
+cao4.pgm
+cao5.pgm
+cao6.pgm
+cao7.pgm
+cao8.pgm
+cao9.pgm
+cao10.pgm
